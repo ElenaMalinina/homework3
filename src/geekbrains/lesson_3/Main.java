@@ -3,6 +3,7 @@ package geekbrains.lesson_3;
 import java.util.Arrays;
 
 public class Main {
+    // Выполнены задачи 1-5
 
     public static void main(String[] args) {
         int[] numbers = {1, 1, 0, 0, 1, 0, 1, 1, 0, 0};
